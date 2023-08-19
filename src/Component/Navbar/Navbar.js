@@ -35,7 +35,7 @@ const Navbar = () => {
             <div className="collapse navbar-collapse" id="samarpanTitle">
               <ul className="navbar-nav ms-auto">
                 <li className="nav-item">
-                  <Link className="nav-link" to='/' onClick={handleClick}>HOME </Link>
+                  <Link className="nav-link" to='/' onClick={handleClick}>HOM</Link>
                 </li>
                 <li className="nav-item">
                   <Link className="nav-link" to='/about' onClick={handleClick}>ABOUT US </Link>
